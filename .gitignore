@@ -1,0 +1,16 @@
+# Dependencies and generated output
+node_modules/
+.expo/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+.claude/
+.idea/
+.vscode/
+.DS_Store
+*.log
