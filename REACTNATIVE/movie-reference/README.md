@@ -2,6 +2,14 @@
 
 A two-screen Expo + TypeScript app for studying code challenge architecture. Search movies through Apple's iTunes API, then open a movie's details. No API key or backend required.
 
+## Screenshots
+
+Captured from the running app on the Pixel_10 Android emulator using Expo Go. The floating tools button belongs to Expo Go.
+
+| Movie search | Movie details |
+| --- | --- |
+| <img src="docs/screenshots/movie-list.png" alt="Movie search showing Spider-Man results" width="300" /> | <img src="docs/screenshots/movie-details.png" alt="Details for Spider-Man: Across the Spider-Verse" width="300" /> |
+
 ## Run
 
 Requires Node 22.13+ and npm. From this directory:

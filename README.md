@@ -31,6 +31,8 @@ npm start
 
 Use a compatible Expo Go version on a phone or emulator. See the [project README](REACTNATIVE/movie-reference/README.md) for platform setup, architecture, validation commands, API behavior, and limitations.
 
+[View Movie Reference screenshots](REACTNATIVE/movie-reference/README.md#screenshots).
+
 ## Adding a project
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Keep examples small enough to study and explain during an interview. These are learning references; adapt them to the requirements and rules of your actual challenge.
